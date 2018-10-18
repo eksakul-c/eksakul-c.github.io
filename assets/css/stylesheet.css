@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Ekkamai Standard';
+    src: url('subset-EkkamaiStandard-Light.woff2') format('woff2'),
+        url('subset-EkkamaiStandard-Light.woff') format('woff'),
+        url('subset-EkkamaiStandard-Light.svg#EkkamaiStandard-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
