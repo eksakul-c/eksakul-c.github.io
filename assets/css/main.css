@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 @import url(../fonts/stylesheet.css);
 @import url(font-awesome.min.css);
+=======
+@import url(../fonts/stylesheet.css)
+>>>>>>> parent of 41954ef... Install font post
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
 
 /*
@@ -158,7 +162,11 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
+<<<<<<< HEAD
 		font-family: "Ekkamai Standard","Source Sans Pro", Helvetica, sans-serif;
+=======
+		font-family: 'Ekkamai Standard',"Source Sans Pro", Helvetica, sans-serif;
+>>>>>>> parent of 41954ef... Install font post
 		font-size: 1rem;
 		font-weight: 300;
 		line-height: 1.65;
