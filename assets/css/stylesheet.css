@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'Ekkamai Standard';
-    src: url('EkkamaiStandard-Light.woff2') format('woff2'),
-        url('EkkamaiStandard-Light.woff') format('woff'),
-        url('EkkamaiStandard-Light.svg#EkkamaiStandard-Light') format('svg');
+    src: url('fonts/EkkamaiStandard-Light.woff2') format('woff2'),
+        url('fonts/EkkamaiStandard-Light.woff') format('woff'),
+        url('fonts/EkkamaiStandard-Light.svg#EkkamaiStandard-Light') format('svg');
     font-weight: 300;
     font-style: normal;
 }
