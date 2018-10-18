@@ -157,7 +157,7 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: "Ekkamai Standard","Source Sans Pro", Helvetica, sans-serif;
+		font-family: 'Ekkamai Standard',"Source Sans Pro", Helvetica, sans-serif;
 		font-size: 1rem;
 		font-weight: 300;
 		line-height: 1.65;
@@ -2555,7 +2555,7 @@ input, select, textarea {
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family: Ekkamai Standard;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
