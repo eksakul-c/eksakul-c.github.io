@@ -37,6 +37,14 @@ ol, ul {
 	list-style: none;
 }
 
+.logo {
+	position:absolute;
+	right:25%;
+	top:0px;
+	width:30%;
+	height:auto;
+	}
+	
 blockquote, q {
 	quotes: none;
 }
