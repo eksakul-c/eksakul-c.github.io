@@ -33,6 +33,14 @@ body {
 	line-height: 1;
 }
 
+.logo {
+	position:absolute;
+	right:25%;
+	top:0px;
+	width:30%;
+	height:auto;
+	}
+	
 ol, ul {
 	list-style: none;
 }
