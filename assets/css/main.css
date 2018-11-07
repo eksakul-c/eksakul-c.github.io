@@ -158,7 +158,7 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: 'Ekkamai Standard',"Source Sans Pro", Helvetica, sans-serif;
+		font-family: 'Ekkamai Standard',FontAwesome,"Source Sans Pro", Helvetica, sans-serif;
 		font-size: 1rem;
 		font-weight: 300;
 		line-height: 1.65;
@@ -2419,7 +2419,7 @@ input, select, textarea {
 			input[type="radio"] + label:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: Ekkamai Standard;
+				font-family: Ekkamai Standard,FontAwesome;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -2556,7 +2556,7 @@ input, select, textarea {
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: Ekkamai Standard;
+			font-family: Ekkamai Standard,FontAwesome;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -6783,7 +6783,7 @@ input, select, textarea {
 			.gallery.style2 > .forward:before, .gallery.style2 > .backward:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: Ekkamai Standard;
+				font-family: Ekkamai Standard, FontAwesome;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
